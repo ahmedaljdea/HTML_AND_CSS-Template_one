@@ -160,7 +160,7 @@ color: #777;
 /** start landing section */
 .landing{
     text-transform: capitalize;
-    background-image: url("/css/images/landing1.jpg");
+    background-image: url("/HTML_AND_CSS-Template_one/css/images/landing1.jpg");
     background-size: cover;
     height: calc(100vh - 64px);
     /* position: relative; */
